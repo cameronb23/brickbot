@@ -25,7 +25,7 @@ export async function queryStockX(query: string): Promise<*> {
 
     if (!results || results.length < 1) {
       return {
-        success: true,
+        success: false,
         message: 'No products found!'
       };
     }

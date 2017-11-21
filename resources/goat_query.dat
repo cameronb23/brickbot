@@ -1,0 +1,15 @@
+POST /1/indexes/ProductTemplateSearch/query HTTP/1.1
+Host	2fwotdvm2o-dsn.algolia.net
+Content-Type	application/json
+Accept-Encoding	br, gzip, deflate
+Connection	keep-alive
+X-Algolia-API-Key	7af2c6fc3991edee5a9f375062c19d21
+Accept	*/*
+User-Agent	Algolia for Swift (4.8.1); iOS (11.2)
+X-Algolia-Application-Id	2FWOTDVM2O
+Content-Length	115
+Accept-Language	en-us
+
+
+POST DATA:
+{"params":"facetFilters=(status:active,%20status:active_edit)&hitsPerPage=25&numericFilters=[]&page=0&query=yeezy"}

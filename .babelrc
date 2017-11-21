@@ -1,1 +1,4 @@
-{ "presets": ["es2017", "flow"] }
+{
+  "retainLines": true,
+  "presets": ["env", "babel-polyfill", "flow"]
+}

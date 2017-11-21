@@ -1,0 +1,589 @@
+{
+  "hits":[
+     {
+        "name":"adidas Yeezy Boost 350 V2 Semi Frozen Yellow",
+        "thumbnail_url":"https://stockx.imgix.net/Adidas-Yeezy-Boost-350-V2-Semi-Frozen-Yellow-1.png?fit=fill&bg=FFFFFF&w=600&h=428&auto=format,compress&trim=color",
+        "media":{
+           "imageUrl":"https://stockx.imgix.net/Adidas-Yeezy-Boost-350-V2-Semi-Frozen-Yellow-1.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color",
+           "smallImageUrl":"https://stockx.imgix.net/Adidas-Yeezy-Boost-350-V2-Semi-Frozen-Yellow-1.png?fit=fill&bg=FFFFFF&w=600&h=428&auto=format,compress&trim=color",
+           "thumbUrl":"https://stockx.imgix.net/Adidas-Yeezy-Boost-350-V2-Semi-Frozen-Yellow-1.png?fit=fill&bg=FFFFFF&w=280&h=200&auto=format,compress&trim=color",
+           "gallery":[
+
+           ]
+        },
+        "url":"adidas-yeezy-boost-350-v2-semi-frozen-yellow",
+        "release_date":"2017-11-18",
+        "categories":[
+           "adidas",
+           "Yeezy"
+        ],
+        "product_category":"sneakers",
+        "ticker_symbol":"YZY350V2-SMIFRZNYLLW",
+        "style_id":"",
+        "make":"adidas Yeezy Boost 350 V2",
+        "model":"Semi Frozen Yellow",
+        "short_description":"Adidas-Yeezy-Boost-350-V2-Semi-Frozen-Yellow",
+        "gender":"men",
+        "colorway":"Semi Frozen Yellow/Raw Steel/Red",
+        "price":0,
+        "description":null,
+        "highest_bid":1295,
+        "total_dollars":451607,
+        "lowest_ask":820,
+        "last_sale":820,
+        "sales_last_72":438,
+        "deadstock_sold":482,
+        "active":1,
+        "new_release":1,
+        "traits":[
+           {
+              "filterable":true,
+              "highlight":true,
+              "name":"Style",
+              "value":"B37572",
+              "visible":true
+           },
+           {
+              "filterable":false,
+              "highlight":true,
+              "name":"Colorway",
+              "value":"Semi Frozen Yellow/Raw Steel/Red",
+              "visible":true
+           },
+           {
+              "filterable":true,
+              "format":"currency",
+              "highlight":false,
+              "name":"Retail Price",
+              "value":220,
+              "visible":true
+           },
+           {
+              "filterable":true,
+              "format":"date",
+              "highlight":false,
+              "name":"Release Date",
+              "value":"2017-11-18",
+              "visible":true
+           },
+           {
+              "filterable":false,
+              "highlight":false,
+              "name":"score",
+              "value":100,
+              "visible":false
+           },
+           {
+              "filterable":false,
+              "highlight":false,
+              "name":"featured",
+              "value":"true",
+              "visible":false
+           }
+        ],
+        "searchable_traits":{
+           "Style":"B37572",
+           "Colorway":"Semi Frozen Yellow/Raw Steel/Red",
+           "Retail Price":220,
+           "Release Date":"2017-11-18",
+           "score":100,
+           "featured":"true"
+        },
+        "objectID":"d16d221d-f7f0-4f00-895c-0f4009abc223",
+        "_highlightResult":{
+           "name":{
+              "value":"adidas Yeezy Boost 350 V2 <em>Semi</em> <em>Frozen</em> <em>Yellow</em>",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "semi",
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "url":{
+              "value":"adidas-yeezy-boost-350-v2-<em>semi</em>-<em>frozen</em>-<em>yellow</em>",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "semi",
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "categories":[
+              {
+                 "value":"adidas",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              {
+                 "value":"Yeezy",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              }
+           ],
+           "product_category":{
+              "value":"sneakers",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "ticker_symbol":{
+              "value":"YZY350V2-SMIFRZNYLLW",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "style_id":{
+              "value":"",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "short_description":{
+              "value":"Adidas-Yeezy-Boost-350-V2-<em>Semi</em>-<em>Frozen</em>-<em>Yellow</em>",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "semi",
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "gender":{
+              "value":"men",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "colorway":{
+              "value":"<em>Semi</em> <em>Frozen</em> <em>Yellow</em>/Raw Steel/Red",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "semi",
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "searchable_traits":{
+              "Style":{
+                 "value":"B37572",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              "Colorway":{
+                 "value":"<em>Semi</em> <em>Frozen</em> <em>Yellow</em>/Raw Steel/Red",
+                 "matchLevel":"full",
+                 "fullyHighlighted":false,
+                 "matchedWords":[
+                    "semi",
+                    "frozen",
+                    "yellow"
+                 ]
+              },
+              "Release Date":{
+                 "value":"2017-11-18",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              "featured":{
+                 "value":"true",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              }
+           }
+        }
+     },
+     {
+        "name":"adidas Tennis HU Pharrell Light Blue",
+        "thumbnail_url":"https://stockx.imgix.net/Adidas-Tennis-HU-Pharrell-Light-Blue.png?fit=fill&bg=FFFFFF&w=600&h=428&auto=format,compress&trim=color",
+        "media":{
+           "imageUrl":"https://stockx.imgix.net/Adidas-Tennis-HU-Pharrell-Light-Blue.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color",
+           "smallImageUrl":"https://stockx.imgix.net/Adidas-Tennis-HU-Pharrell-Light-Blue.png?fit=fill&bg=FFFFFF&w=600&h=428&auto=format,compress&trim=color",
+           "thumbUrl":"https://stockx.imgix.net/Adidas-Tennis-HU-Pharrell-Light-Blue.png?fit=fill&bg=FFFFFF&w=280&h=200&auto=format,compress&trim=color",
+           "gallery":[
+
+           ]
+        },
+        "url":"adidas-tennis-hu-pharrell-light-blue",
+        "release_date":"2017-07-28",
+        "categories":[
+           "adidas",
+           "Other"
+        ],
+        "product_category":"sneakers",
+        "ticker_symbol":"TNSHU-PWLGHTBLU",
+        "style_id":"",
+        "make":"adidas Tennis HU",
+        "model":"Pharrell Light Blue",
+        "short_description":"Adidas-Tennis-HU-Pharrell-Light-Blue",
+        "gender":"men",
+        "colorway":"Noble Ink/Semi Frozen Yellow/Core Black",
+        "price":0,
+        "description":null,
+        "highest_bid":100,
+        "total_dollars":12394,
+        "lowest_ask":78,
+        "last_sale":80,
+        "sales_last_72":6,
+        "deadstock_sold":107,
+        "active":1,
+        "new_release":null,
+        "traits":[
+           {
+              "filterable":true,
+              "highlight":true,
+              "name":"Style",
+              "value":"BY2671",
+              "visible":true
+           },
+           {
+              "filterable":false,
+              "highlight":true,
+              "name":"Colorway",
+              "value":"Noble Ink/Semi Frozen Yellow/Core Black",
+              "visible":true
+           },
+           {
+              "filterable":true,
+              "format":"currency",
+              "highlight":false,
+              "name":"Retail Price",
+              "value":130,
+              "visible":true
+           },
+           {
+              "filterable":true,
+              "format":"date",
+              "highlight":false,
+              "name":"Release Date",
+              "value":"2017-07-28",
+              "visible":true
+           }
+        ],
+        "searchable_traits":{
+           "Style":"BY2671",
+           "Colorway":"Noble Ink/Semi Frozen Yellow/Core Black",
+           "Retail Price":130,
+           "Release Date":"2017-07-28"
+        },
+        "objectID":"3f3c9ae2-6beb-43ab-8c63-6259d1f8080d",
+        "_highlightResult":{
+           "name":{
+              "value":"adidas Tennis HU Pharrell Light Blue",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "url":{
+              "value":"adidas-tennis-hu-pharrell-light-blue",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "categories":[
+              {
+                 "value":"adidas",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              {
+                 "value":"Other",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              }
+           ],
+           "product_category":{
+              "value":"sneakers",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "ticker_symbol":{
+              "value":"TNSHU-PWLGHTBLU",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "style_id":{
+              "value":"",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "short_description":{
+              "value":"Adidas-Tennis-HU-Pharrell-Light-Blue",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "gender":{
+              "value":"men",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "colorway":{
+              "value":"Noble Ink/<em>Semi</em> <em>Frozen</em> <em>Yellow</em>/Core Black",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "semi",
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "searchable_traits":{
+              "Style":{
+                 "value":"BY2671",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              "Colorway":{
+                 "value":"Noble Ink/<em>Semi</em> <em>Frozen</em> <em>Yellow</em>/Core Black",
+                 "matchLevel":"full",
+                 "fullyHighlighted":false,
+                 "matchedWords":[
+                    "semi",
+                    "frozen",
+                    "yellow"
+                 ]
+              },
+              "Release Date":{
+                 "value":"2017-07-28",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              }
+           }
+        }
+     },
+     {
+        "name":"adidas EQT Support Ultra Frozen Yellow",
+        "thumbnail_url":"https://stockx.imgix.net/Adidas-EQT-Support-Ultra-Frozen-Yellow.png?fit=fill&bg=FFFFFF&w=600&h=428&auto=format,compress&trim=color",
+        "media":{
+           "imageUrl":"https://stockx.imgix.net/Adidas-EQT-Support-Ultra-Frozen-Yellow.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color",
+           "smallImageUrl":"https://stockx.imgix.net/Adidas-EQT-Support-Ultra-Frozen-Yellow.png?fit=fill&bg=FFFFFF&w=600&h=428&auto=format,compress&trim=color",
+           "thumbUrl":"https://stockx.imgix.net/Adidas-EQT-Support-Ultra-Frozen-Yellow.png?fit=fill&bg=FFFFFF&w=280&h=200&auto=format,compress&trim=color",
+           "gallery":[
+
+           ]
+        },
+        "url":"adidas-eqt-support-ultra-frozen-yellow",
+        "release_date":"2017-05-09",
+        "categories":[
+           "adidas",
+           "Other"
+        ],
+        "product_category":"sneakers",
+        "ticker_symbol":"EQTULT-FRZNYLW",
+        "style_id":"BB1244",
+        "make":"adidas EQT Support Ultra",
+        "model":"Frozen Yellow",
+        "short_description":"Adidas-EQT-Support-Ultra-Frozen-Yellow",
+        "gender":"men",
+        "colorway":"Semi Frozen Yellow/Core Black/Frozen Green",
+        "price":0,
+        "description":null,
+        "highest_bid":80,
+        "total_dollars":2171,
+        "lowest_ask":105,
+        "last_sale":131,
+        "sales_last_72":null,
+        "deadstock_sold":15,
+        "active":1,
+        "new_release":null,
+        "traits":[
+           {
+              "filterable":true,
+              "highlight":true,
+              "name":"Style",
+              "value":"BB1244",
+              "visible":true
+           },
+           {
+              "filterable":false,
+              "highlight":true,
+              "name":"Colorway",
+              "value":"Semi Frozen Yellow/Core Black/Frozen Green",
+              "visible":true
+           },
+           {
+              "filterable":true,
+              "format":"date",
+              "highlight":false,
+              "name":"Release Date",
+              "value":"2017-05-09",
+              "visible":true
+           }
+        ],
+        "searchable_traits":{
+           "Style":"BB1244",
+           "Colorway":"Semi Frozen Yellow/Core Black/Frozen Green",
+           "Release Date":"2017-05-09"
+        },
+        "objectID":"db01093a-6882-4211-bb3e-9d3c7545bcbd",
+        "_highlightResult":{
+           "name":{
+              "value":"adidas EQT Support Ultra <em>Frozen</em> <em>Yellow</em>",
+              "matchLevel":"partial",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "url":{
+              "value":"adidas-eqt-support-ultra-<em>frozen</em>-<em>yellow</em>",
+              "matchLevel":"partial",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "categories":[
+              {
+                 "value":"adidas",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              {
+                 "value":"Other",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              }
+           ],
+           "product_category":{
+              "value":"sneakers",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "ticker_symbol":{
+              "value":"EQTULT-FRZNYLW",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "style_id":{
+              "value":"BB1244",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "short_description":{
+              "value":"Adidas-EQT-Support-Ultra-<em>Frozen</em>-<em>Yellow</em>",
+              "matchLevel":"partial",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "gender":{
+              "value":"men",
+              "matchLevel":"none",
+              "matchedWords":[
+
+              ]
+           },
+           "colorway":{
+              "value":"<em>Semi</em> <em>Frozen</em> <em>Yellow</em>/Core Black/<em>Frozen</em> Green",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "semi",
+                 "frozen",
+                 "yellow"
+              ]
+           },
+           "searchable_traits":{
+              "Style":{
+                 "value":"BB1244",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              },
+              "Colorway":{
+                 "value":"<em>Semi</em> <em>Frozen</em> <em>Yellow</em>/Core Black/<em>Frozen</em> Green",
+                 "matchLevel":"full",
+                 "fullyHighlighted":false,
+                 "matchedWords":[
+                    "semi",
+                    "frozen",
+                    "yellow"
+                 ]
+              },
+              "Release Date":{
+                 "value":"2017-05-09",
+                 "matchLevel":"none",
+                 "matchedWords":[
+
+                 ]
+              }
+           }
+        }
+     }
+  ],
+  "nbHits":3,
+  "page":0,
+  "nbPages":1,
+  "hitsPerPage":20,
+  "processingTimeMS":1,
+  "facets":{
+     "gender":{
+        "men":3
+     },
+     "categories":{
+        "adidas":3,
+        "Other":2,
+        "Yeezy":1
+     },
+     "product_category":{
+        "sneakers":3
+     }
+  },
+  "exhaustiveFacetsCount":true,
+  "exhaustiveNbHits":true,
+  "query":"semi frozen yellow",
+  "params":"query=semi%20frozen%20yellow&hitsPerPage=20&facets=*"
+}

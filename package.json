@@ -17,6 +17,7 @@
     "flow-bin": "^0.59.0"
   },
   "dependencies": {
+    "dotenv": "^4.0.0",
     "eris": "^0.8.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"

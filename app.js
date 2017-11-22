@@ -1,6 +1,6 @@
 // @flow
 import Eris from 'eris';
-import { queryStockX } from './api';
+import { query } from './api';
 
 const bot = new Eris.CommandClient(
   process.env.DISCORD_TOKEN,
@@ -19,33 +19,50 @@ bot.on('ready', () => {
 bot.registerCommand('brick', async (message, args) => {
   await message.channel.sendTyping();
 
-  const res = await queryStockX(args.join(' '));
-  
+  const res = await query(args.join(' '));
+
   if (!res.success) {
     await message.channel.createMessage(`${message.author.mention} ${res.message}`);
     return;
   }
 
-  const prod = res.product;
+  const { data } = res;
 
-  const avg = (prod.highest_bid + prod.lowest_ask) / 2;
+  const avg = (data.highBid + data.lowAsk) / 2;
 
-  const data = `
-    High: $${prod.highest_bid}\n
-    Low: $${prod.lowest_ask}\n
-    Average: $${avg}
-  `;
+  const both = {
+    stockX: data.stockData,
+    goat: data.goatData
+  };
 
-  let desc = `[StockX](https://stockx.com/${prod.url})`;
-  desc += '```ruby\n' + data + '```';
+  let desc =
+    '```stylus\n' +
+    `High bid: $${data.highBid}\n` +
+    `Low ask: $${data.lowAsk}\n` +
+    `Average: $${avg}\n` +
+    '```\n';
+
+  desc +=
+    `Retail price: $${data.meta.retail}\n` +
+    `SKU: ${data.meta.sku}\n` +
+    `StockX Ticker: ${data.meta.stockSlug}\n` +
+    `GOAT Slug: ${data.meta.goatSlug}\n`;
+
+  if (data.meta.stockUrl) {
+    desc += `\n[StockX](https://stockx.com/${data.meta.stockUrl})\n`;
+  }
 
   const content = {
     content: `${message.author.mention}, here are your results!`,
     embed: {
-      title: prod.name,
+      title: data.meta.title,
       author: {
         name: 'BrickBot',
         icon_url: 'https://cdn.discordapp.com/embed/avatars/0.png'
+      },
+      color: 2793880,
+      thumbnail: {
+        url: data.meta.image
       },
       timestamp: new Date().toISOString(),
       footer: {
@@ -65,7 +82,8 @@ bot.registerCommand('brick', async (message, args) => {
   fullDescription: 'Checks against multiple services to compute the average data and resale value of a product',
   usage: '<product query>',
   invalidUsageMessage: 'Proper usage: -brick <product query>',
-  cooldown: 3000
+  cooldown: 3000,
+  cooldownMessage: 'Please calm down :)'
   // etc
 });
 
